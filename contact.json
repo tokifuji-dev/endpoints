@@ -1,0 +1,15 @@
+{
+	"contacts": [
+		{
+			"email": [
+				"motoki@tokifu.jp",
+				"motoki@tokifuji.dev",
+				"tokifujp@gmail.com"
+			],
+			"web": [
+				"https://tokifu.jp/",
+				"https://tokifuji.dev/"
+			]
+		}
+	]
+}
