@@ -1,0 +1,9 @@
+{
+    "educations":
+    [
+        {
+            "subject": "java.lang.NullPointerException",
+            "message": "java.lang.NullPointerException\nat myEducation.main(NullPointerExceptionSample.java:11)"
+        }
+    ]
+}
