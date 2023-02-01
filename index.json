@@ -10,7 +10,7 @@
 	"sex": "male",
 	"residence": "Tokyo",
 	"country": "Japan",
-	"occupation": "web developer"
+	"occupation": "web developer",
 	"endpoints": 
 	[
 		"https://api.tokifu.jp/career.json",
