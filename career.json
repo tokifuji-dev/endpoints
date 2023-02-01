@@ -1,0 +1,64 @@
+{
+	"careers": [
+		{
+			"label": "株式会社カルテック・エスキューブ",
+			"start": "2000-01-01",
+			"end": "2003-02-28",
+			"role": "Programmer"
+		},
+		{
+			"label": "東広運輸株式会社",
+			"start": "2003-03-01",
+			"end": "2012-06-30",
+			"role": "System Admninistrator"
+		},
+		{
+			"label": "株式会社サテライトオフィス",
+			"start": "2012-08-01",
+			"end": "2014-10-31",
+			"role": "Cloud Architect/Cloud Consultant"
+		},
+		{
+			"label": "イレブンナイン株式会社",
+			"start": "2014-11-01",
+			"end": "2018-10-31",
+			"role": "Chief Technology Officer"
+		},
+		{
+			"label": "NPO法人 PLAYTANK",
+			"start": "2015-09-01",
+			"end": "",
+			"role": "Technical Advisor"
+		},
+		{
+			"label": "株式会社ハッカズーク",
+			"start": "2018-10-01",
+			"end": "2019-02-28",
+			"role": "Technical Director"
+		},
+		{
+			"label": "テモナ株式会社",
+			"start": "2019-03-01",
+			"end": "2020-01-30",
+			"role": "CTO室Senior Developer"
+		},
+		{
+			"label": "株式会社光和コンピューター",
+			"start": "2020-03-01",
+			"end": "2020-07-30",
+			"role": "Project Manager"
+		},
+		{
+			"label": "時藤屋",
+			"start": "2020-07-01",
+			"end": "",
+			"role": "Cheif Executive Developer"
+		},
+		{
+			"label": "株式会社ログラフ",
+			"start": "2020-08-01",
+			"end": "",
+			"role": "Senior Developer"
+		}
+	]
+}
