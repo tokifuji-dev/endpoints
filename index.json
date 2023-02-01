@@ -1,5 +1,6 @@
 {
-	"name": [
+	"name":
+	[
 		{
 			"first": "もとき",
 			"last": "ときふじ"
@@ -10,4 +11,11 @@
 	"residence": "Tokyo",
 	"country": "Japan",
 	"occupation": "web developer"
+	"endpoints": 
+	[
+		"https://api.tokifu.jp/career.json",
+		"https://api.tokifu.jp/contact.json",
+		"https://api.tokifu.jp/education.json",
+		"https://api.tokifu.jp/social.json"
+	]
 }
