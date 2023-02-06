@@ -1,18 +1,20 @@
 {
-	"name":
-	[
-		{
-			"first": "もとき",
-			"last": "ときふじ"
+	"name": {
+		"en": {
+			"first": "Motoki",
+			"last": "Tokifuji"
+		},
+		"ja": {
+			"first": "資樹",
+			"last": "時藤"
 		}
-	],
+	},
 	"date_of_birth": "1976-06-01",
 	"sex": "male",
 	"residence": "Tokyo",
 	"country": "Japan",
 	"occupation": "web developer",
-	"endpoints": 
-	[
+	"endpoints": [
 		"https://api.tokifu.jp/career.json",
 		"https://api.tokifu.jp/contact.json",
 		"https://api.tokifu.jp/education.json",
