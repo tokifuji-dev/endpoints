@@ -4,7 +4,21 @@
 			"label": "株式会社カルテック・エスキューブ",
 			"start": "2000-01-01",
 			"end": "2003-02-28",
-			"role": "Programmer"
+			"role": "Programmer",
+			"projects": [
+				{
+					"name": "RPG to COBOL AS/400 migrations",
+					"languages": [
+						"COBOL",
+						"RPG",
+						"VB6"
+					],
+					"DWH": [
+						"DB2",
+						"AS/400"
+					]
+				}
+			]
 		},
 		{
 			"label": "東広運輸株式会社",
@@ -16,31 +30,139 @@
 			"label": "株式会社サテライトオフィス",
 			"start": "2012-08-01",
 			"end": "2014-10-31",
-			"role": "Cloud Architect/Cloud Consultant"
+			"role": "Cloud Architect/Cloud Consultant",
+			"projects": [
+				{
+					"name": "Add-on development of Google Workspaces",
+					"languages": [
+						"JavaScript"
+					]
+				}
+			]
 		},
 		{
 			"label": "イレブンナイン株式会社",
 			"start": "2014-11-01",
 			"end": "2018-10-31",
-			"role": "Chief Technology Officer"
+			"role": "Chief Technology Officer",
+			"projects": [
+				{
+					"name": "Add-on development of GIS Solutions",
+					"languages": [
+						"Java"
+					],
+					"DWH": [
+						"MS SQL SERVER",
+						"IBM Cognos"
+					]
+				},
+				{
+					"name": "Product Development of Vehicle Maintenance Services",
+					"languages": [
+						"Ruby",
+						"Rails"
+					],
+					"DWH": [
+						"MySQL",
+						"Redis"
+					]
+				},
+				{
+					"name": "PHP to Ruby on Rails migration for EC Services",
+					"languages": [
+						"PHP",
+						"Ruby",
+						"Rails"
+					],
+					"DWH": [
+						"MySQL",
+						"Redis"
+					]
+				},
+				{
+					"name": "Tech Lead of willbe Development",
+					"languages": [
+						"PHP",
+						"codeigniter",
+						"Objective C",
+						"Swift"
+					],
+					"DWH": [
+						"MySQL"
+					]
+				},
+				{
+					"name": "Tech Lead of station Development",
+					"url": "https://www.station.space/",
+					"languages": [
+						"Ruby",
+						"Rails"
+					],
+					"DWH": [
+						"MySQL",
+						"Redis"
+					]
+				}
+			]
 		},
 		{
 			"label": "NPO法人 PLAYTANK",
 			"start": "2015-09-01",
 			"end": "",
-			"role": "Technical Advisor"
+			"role": "Technical Advisor",
+			"projects": [
+				{
+					"name": "Tech Advisery of WordPress sites",
+					"url": "https://playtank.tokyo/",
+					"languages": [
+						"PHP"
+					],
+					"DWH": [
+						"MySQL"
+					]
+				}
+			]
 		},
 		{
 			"label": "株式会社ハッカズーク",
 			"start": "2018-10-01",
 			"end": "2019-02-28",
-			"role": "Technical Director"
+			"role": "Technical Director",
+			"projects": [
+				{
+					"name": "Tech Director of Official-alumni.com Development",
+					"url": "https://www.official-alumni.com/",
+					"languages": [
+						"PHP",
+						"Laravel"
+					],
+					"DWH": [
+						"MySQL"
+					]
+				}
+			]
 		},
 		{
 			"label": "テモナ株式会社",
 			"start": "2019-03-01",
 			"end": "2020-01-30",
-			"role": "CTO室Senior Developer"
+			"role": "CTO室Senior Developer",
+			"projects": [
+				{
+					"name": "Senior Developer of サブスクストア Development",
+					"url": "https://www.subscription-store.com/",
+					"languages": [
+						"Ruby",
+						"Rails",
+						"JavaScript",
+						"React"
+					],
+					"DWH": [
+						"PosgreSql",
+						"Redis"
+					]
+				}
+			]
 		},
 		{
 			"label": "株式会社光和コンピューター",
@@ -58,7 +180,23 @@
 			"label": "株式会社ログラフ",
 			"start": "2020-08-01",
 			"end": "",
-			"role": "Senior Developer"
+			"role": "Senior Developer",
+			"projects": [
+				{
+					"name": "Senior Developer of CallDataBank Development",
+					"url": "https://call.omnidatabank.jp/",
+					"languages": [
+						"PHP",
+						"BEAR.Sunday",
+						"JavaScript",
+						"React"
+					],
+					"DWH": [
+						"MongoDB/DocumentDB",
+						"Redis"
+					]
+				}
+			]
 		}
 	]
 }
