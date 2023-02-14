@@ -1,24 +1,40 @@
 {
+    "skills":
+    [
+        {
+            "basics": "最近はTDDとDDDの中間的なアーキテクチャパターンが多いです。自身の立ち位置としては既存プロダクトの保守タスクが多いです。"
+        },
+        {
+            "trends": "フロントエンドの最近のトレンドは再びSSRとかでしょうか。ちょっとサボッてしまったので履修したいと思います…"
+        },
+        {
+            "soft": "チーム内でのコミュニケーション及びコラボレーションについてはほぼBotレベルで張り付いていますのでほとんどKeep aliveできるように心がけています。そうすることにより状況の変化に素早く反応できることを心がけています。"
+        },
+        {
+            "pr": "立ち上がりの速度に自信はありませんが、気がつけばコードを読み漁り特性等を理解し、組織内の過去のやりとり等が検索可能であればそこから経緯等も理解したりします。現職のログラフではCTOが途中で退職してしまいましたが、そうした特性が生かされており、今では事実上CTOに近い意思決定までしております。"
+        }
+    ],
 	"careers": [
 		{
 			"label": "株式会社カルテック・エスキューブ",
 			"start": "2000-01-01",
 			"end": "2003-02-28",
 			"role": "Programmer",
-			"projects": [
-				{
-					"name": "RPG to COBOL AS/400 migrations",
-					"languages": [
-						"COBOL",
-						"RPG",
-						"VB6"
-					],
-					"DWH": [
-						"DB2",
-						"AS/400"
-					]
-				}
-			]
+            "projects":
+            [
+                {
+                    "name": "RPG to COBOL AS/400 migrations",
+                    "languages": [
+                        "COBOL",
+                        "RPG",
+                        "VB6"
+                    ],
+                    "DWH": [
+                        "DB2",
+                        "AS/400"
+                    ]
+                }
+            ]
 		},
 		{
 			"label": "東広運輸株式会社",
@@ -31,138 +47,143 @@
 			"start": "2012-08-01",
 			"end": "2014-10-31",
 			"role": "Cloud Architect/Cloud Consultant",
-			"projects": [
-				{
-					"name": "Add-on development of Google Workspaces",
-					"languages": [
-						"JavaScript"
-					]
-				}
-			]
+            "projects":
+            [
+                {
+                    "name": "Add-on development of Google Workspaces",
+                    "languages": [
+                        "JavaScript"
+                    ]
+                }
+            ]
 		},
 		{
 			"label": "イレブンナイン株式会社",
 			"start": "2014-11-01",
 			"end": "2018-10-31",
 			"role": "Chief Technology Officer",
-			"projects": [
-				{
-					"name": "Add-on development of GIS Solutions",
-					"languages": [
-						"Java"
-					],
-					"DWH": [
-						"MS SQL SERVER",
-						"IBM Cognos"
-					]
-				},
-				{
-					"name": "Product Development of Vehicle Maintenance Services",
-					"languages": [
-						"Ruby",
-						"Rails"
-					],
-					"DWH": [
-						"MySQL",
-						"Redis"
-					]
-				},
-				{
-					"name": "PHP to Ruby on Rails migration for EC Services",
-					"languages": [
-						"PHP",
-						"Ruby",
-						"Rails"
-					],
-					"DWH": [
-						"MySQL",
-						"Redis"
-					]
-				},
-				{
-					"name": "Tech Lead of willbe Development",
-					"languages": [
-						"PHP",
-						"codeigniter",
-						"Objective C",
-						"Swift"
-					],
-					"DWH": [
-						"MySQL"
-					]
-				},
-				{
-					"name": "Tech Lead of station Development",
-					"url": "https://www.station.space/",
-					"languages": [
-						"Ruby",
-						"Rails"
-					],
-					"DWH": [
-						"MySQL",
-						"Redis"
-					]
-				}
-			]
+            "projects":
+            [
+                {
+                    "name": "Add-on development of GIS Solutions",
+                    "languages": [
+                        "Java"
+                    ],
+                    "DWH": [
+                        "MS SQL SERVER",
+                        "IBM Cognos"
+                    ]
+                },
+                {
+                    "name": "Product Development of Vehicle Maintenance Services",
+                    "languages": [
+                        "Ruby",
+                        "Rails"
+                    ],
+                    "DWH": [
+                        "MySQL",
+                        "Redis"
+                    ]
+                },
+                {
+                    "name": "PHP to Ruby on Rails migration for EC Services",
+                    "languages": [
+                        "PHP",
+                        "Ruby",
+                        "Rails"
+                    ],
+                    "DWH": [
+                        "MySQL",
+                        "Redis"
+                    ]
+                },
+                {
+                    "name": "Tech Lead of willbe Development",
+                    "languages": [
+                        "PHP",
+                        "codeigniter",
+                        "Objective C",
+                        "Swift"
+                    ],
+                    "DWH": [
+                        "MySQL"
+                    ]
+                },
+                {
+                    "name": "Tech Lead of station Development",
+                    "url": "https://www.station.space/",
+                    "languages": [
+                        "Ruby",
+                        "Rails"
+                    ],
+                    "DWH": [
+                        "MySQL",
+                        "Redis"
+                    ]
+                }
+            ]
 		},
 		{
 			"label": "NPO法人 PLAYTANK",
 			"start": "2015-09-01",
 			"end": "",
 			"role": "Technical Advisor",
-			"projects": [
-				{
-					"name": "Tech Advisery of WordPress sites",
-					"url": "https://playtank.tokyo/",
-					"languages": [
-						"PHP"
-					],
-					"DWH": [
-						"MySQL"
-					]
-				}
-			]
+            "projects":
+            [
+                {
+                    "name": "Tech Advisery of WordPress sites",
+                    "url": "https://playtank.tokyo/",
+                    "languages": [
+                        "PHP"
+                    ],
+                    "DWH": [
+                        "MySQL"
+                    ]
+                }
+            ]
 		},
 		{
 			"label": "株式会社ハッカズーク",
 			"start": "2018-10-01",
 			"end": "2019-02-28",
 			"role": "Technical Director",
-			"projects": [
-				{
-					"name": "Tech Director of Official-alumni.com Development",
-					"url": "https://www.official-alumni.com/",
-					"languages": [
-						"PHP",
-						"Laravel"
-					],
-					"DWH": [
-						"MySQL"
-					]
-				}
-			]
+            "projects":
+            [
+                {
+                    "name": "Tech Director of Official-alumni.com Development",
+                    "url": "https://www.official-alumni.com/",
+                    "languages": [
+                        "PHP",
+                        "Laravel"
+                    ],
+                    "DWH": [
+                        "MySQL"
+                    ]
+                }
+            ]
 		},
 		{
 			"label": "テモナ株式会社",
 			"start": "2019-03-01",
 			"end": "2020-01-30",
 			"role": "CTO室Senior Developer",
-			"projects": [
-				{
-					"name": "Senior Developer of サブスクストア Development",
-					"url": "https://www.subscription-store.com/",
-					"languages": [
-						"Ruby",
-						"Rails",
-						"JavaScript",
-						"React"
-					],
-					"DWH": [
-						"PosgreSql",
-						"Redis"
-					]
-				}
-			]
+            "projects":
+            [
+                {
+                    "name": "Senior Developer of サブスクストア Development",
+                    "url": "https://www.subscription-store.com/",
+                    "languages": [
+                        "Ruby",
+                        "Rails",
+                        "JavaScript",
+                        "React"
+                    ],
+                    "DWH": [
+                        "PosgreSql",
+                        "Redis"
+                    ]
+                }
+            ]
 		},
 		{
 			"label": "株式会社光和コンピューター",
@@ -181,22 +202,23 @@
 			"start": "2020-08-01",
 			"end": "",
 			"role": "Senior Developer",
-			"projects": [
-				{
-					"name": "Senior Developer of CallDataBank Development",
-					"url": "https://call.omnidatabank.jp/",
-					"languages": [
-						"PHP",
-						"BEAR.Sunday",
-						"JavaScript",
-						"React"
-					],
-					"DWH": [
-						"MongoDB/DocumentDB",
-						"Redis"
-					]
-				}
-			]
+            "projects":
+            [
+                {
+                    "name": "Senior Developer of CallDataBank Development",
+                    "url": "https://call.omnidatabank.jp/",
+                    "languages": [
+                        "PHP",
+                        "BEAR.Sunday",
+                        "JavaScript",
+                        "React"
+                    ],
+                    "DWH": [
+                        "MongoDB/DocumentDB",
+                        "Redis"
+                    ]
+                }
+            ]
 		}
 	]
 }
