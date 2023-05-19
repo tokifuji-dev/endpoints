@@ -2,9 +2,17 @@
 	"socials": [
 		{
 			"Facebook": "https://www.facebook.com/motoki.tokifuji",
+			"misskey.io" : "https://misskey.io/@tokifujp",
+			"Bluesky" : "https://bsky.app/profile/tokifu.jp",
 			"Twitter": "https://twitter.com/tokifujp",
+			"Instagram" : "https://www.instagram.com/tokifujp/",
+			"Hatena" : "https://profile.hatena.ne.jp/akulog/",
 			"GitHub": "https://github.com/tokifujp",
-			"Qiita": "https://qiita.com/tokifuji"
+			"Qiita": "https://qiita.com/tokifuji",
+			"Linkedin" : "https://www.linkedin.com/in/tokifujp/",
+			"Wantedly" : "https://www.wantedly.com/id/motoki_tokifuji",
+			"Youtrust" : "https://youtrust.jp/users/tokifujp",
+			"tumblr" : "https://tokifujp.tumblr.com/"
 		}
 	]
 }
